@@ -2,4 +2,4 @@
 
 Hausübungsrepo für den SWP unterricht
 
-## what are we doing here
+## 1. Aufgabe: im Ordner erste Webseite
