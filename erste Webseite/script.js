@@ -2,3 +2,6 @@
 function myFunction() {
     alert("Hello There!");
 }
+function notAFunction() {
+    alert("This is not a function");
+}
